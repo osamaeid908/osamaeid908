@@ -4,7 +4,7 @@ I'm Osama Eid, Wikipedian, developer and digital rights advocate
 
 ## 🔧 Technologies & Tools
 
-!(https://img.shields.io/badge/-wikipedia-black?style=flat-square&logo=wikipedia)
+![wikipedia](https://img.shields.io/badge/-wikipedia-black?style=flat-square&logo=wikipedia)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 <!-- Add more technologies and tools as needed -->
