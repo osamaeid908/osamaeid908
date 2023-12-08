@@ -1,31 +1,14 @@
 # Hello, World! 👋
 
-I'm [Your Name], a passionate [Your Profession] from [Your Location].
+I'm I'm Osama Eid, Wikipedian, developer and digital rights advocate
 
 ## 🔧 Technologies & Tools
 
+![[wikipedia](https://img.shields.io/badge/-wikipedia-black?style=flat-square&logo=wikipedia)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 <!-- Add more technologies and tools as needed -->
 
-## 🌱 I’m currently learning
+## 🌱 I am currently studying for a master's degree in cybersecurity at the German University of Applied Sciences
 
-- [Topic 1]
-- [Topic 2]
-
-## 📫 How to reach me
-
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourusername)
-- Portfolio: [Your Portfolio Website](https://www.yourportfolio.com)
-
-## ⚡ Fun fact
-
-[Fun fact about yourself]
-
-<!-- Add any other sections you want to include -->
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
-
-
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/eidosama/)
